@@ -5,9 +5,9 @@ description: "this contains blog posts for ST 558 post prompts and other things 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
 email: "arfloyd@ncsu.edu"
-twitter_username: "twitteruser"
-github_username: "githubuser"
-linkedin_username: "linkedinuser"
+#twitter_username: "twitteruser"
+#github_username: "githubuser"
+#linkedin_username: "linkedinuser"
 #facebook_username: username
 #flickr_username: username
 #instagram_username: username

@@ -11,8 +11,9 @@ The most difficult portion of this project was the collaboration on GitHub. I un
 My biggest take away from this is that I sometimes need to stand firm in my work and my position on certain aspects to get things done.
 
 Rendered Repo
-https://arfloyd2.github.io/Project3.github.io/
+[https://arfloyd2.github.io/Project3.github.io/
+](https://arfloyd2.github.io/Project3.github.io/)
 
 Regular repo
 
-https://github.com/arfloyd2/Project3.github.io
+[https://github.com/arfloyd2/Project3.github.io](https://github.com/arfloyd2/Project3.github.io)https://github.com/arfloyd2/Project3.github.io
